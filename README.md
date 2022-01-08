@@ -8,5 +8,5 @@ This is the first project in The Odin Project that I will be making. A very basi
 - Paragraphs
 - Unordered Lists
 - Ordered Lists
-- <a> Tag
-- <img> Tag
+- a Tag
+- img Tag
